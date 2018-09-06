@@ -1,0 +1,10 @@
+.idea
+target
+apple_test
+codefile
+codeprint
+huffman
+*.iml
+*.dat
+textfile
+treeprint
